@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://kuno.revtools.net/superjp/sitemap.xml
+Sitemap: http://kuno.revtools.net/gilajp/sitemap.xml
+Sitemap: http://kuno.revtools.net/gojekpot/sitemap.xml
+Sitemap: http://kuno.revtools.net/winstrike69/sitemap.xml
+Sitemap: http://kuno.revtools.net/slotgacor/sitemap.xml
+Sitemap: http://kuno.revtools.net/slotzeus/sitemap.xml
+Sitemap: http://kuno.revtools.net/kaptenjackpot/sitemap.xml
+Sitemap: http://kuno.revtools.net/boosterjp/sitemap.xml
+Sitemap: http://kuno.revtools.net/kerajaanslot/sitemap.xml
+Sitemap: http://kuno.revtools.net/pakong86/sitemap.xml
+Sitemap: http://kuno.revtools.net/viral88/sitemap.xml
+Sitemap: http://kuno.revtools.net/clan4d/sitemap.xml
+Sitemap: http://kuno.revtools.net/dinamit4d/sitemap.xml
+Sitemap: http://kuno.revtools.net/elang212/sitemap.xml
+Sitemap: http://kuno.revtools.net/gori77/sitemap.xml
+Sitemap: http://kuno.revtools.net/viral4d/sitemap.xml
+Sitemap: http://kuno.revtools.net/playground88/sitemap.xml
